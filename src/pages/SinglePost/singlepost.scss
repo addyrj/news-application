@@ -1,0 +1,37 @@
+.singlepost{
+   flex : 9;
+  
+    margin-top: 0px;
+    padding: 60px;
+    // margin-left: 83px;
+   
+}
+.singlePostTitle{
+text-align: center;
+color: rgb(85, 174, 219);
+font-size: 35px;
+// margin-right: 200px;
+}
+.singlePostWrapper{
+    // padding-left: 40px;
+    // padding: 30px;
+
+}
+.singlePostImg{
+    width: 75%;
+    max-height: 300px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+.singlePostInfo{
+    width: 75%;
+    // margin-left: 40px;
+    // text-align: center;
+}
+.share{
+    color: red;
+    margin-left: 10px;
+}
+.singlePostInfo span> {
+    color: aqua;
+}

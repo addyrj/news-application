@@ -1,0 +1,21 @@
+.SidebarCard {
+    display: flex;
+    // width: 40%;
+    // margin: 20px 20px 20px 20px;
+  }
+  
+  .SidebarCard-img {
+    object-fit: cover;
+    width: 100px;
+    height: 110px;
+    border-radius: 3px;
+  }
+  
+  .SidebarCard-text {
+    padding: 13px;
+    text-overflow: hidden;
+    font-weight: 600;
+//    font-size: 15px;
+    color: black;
+    
+  }

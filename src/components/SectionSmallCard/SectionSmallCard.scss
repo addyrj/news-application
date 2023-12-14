@@ -1,0 +1,22 @@
+SectionSmallCardSection{
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .SectionSmallCardSection-img{
+    object-fit: cover;
+    width: 240px;
+    height: 130px;
+    border-radius: 10px;
+  }
+  
+  .SectionSmallCardSection-text{
+    // padding: 10px;
+    margin-left: 10px;
+    font-weight: 600;
+    text-overflow: hidden;
+   font-size: 16px;
+
+    
+  }
